@@ -87,3 +87,8 @@ main {
 		url('fonts/lovely_font.otf') 
 		format('opentype');*/
 }
+
+
+.fa-cog {
+	cursor: pointer;
+}
